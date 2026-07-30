@@ -1,7 +1,7 @@
 ### Olá!!! Me chamo Gabriel
 
 - 🔭 Hoje trabalho com suporte
-- 🌱 Estudando Flutter
+- 🌱 Flutter
 - 📫 Contate-me no email: gabrielsoliveira.dev@gmail.com
 
 <div>
